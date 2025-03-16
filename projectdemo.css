@@ -154,10 +154,10 @@ nav h3 {
 }  
 @keyframes blur {
     from{
-        transform: translate(0%,60%);
+        transform: translate(0%,40%);
     }
     to{
-        transform: translate(0%,40%);
+        transform: translate(0%,50%);
     }
     
 }
