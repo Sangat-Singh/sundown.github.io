@@ -134,7 +134,7 @@ nav h3 {
     position:relative;
     margin-top: 50%;
     margin-left: 0vw;
-    width:auto; /* Adjust as per requirement */
+    width:100%; /* Adjust as per requirement */
     height: auto;
     max-width: 800px; /* Prevents excessive scaling */
     border-radius: 100px; /* Optional rounded corners */
